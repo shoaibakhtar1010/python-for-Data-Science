@@ -1,0 +1,4 @@
+1-Hands-On Machine Learning with Scikit-Learn and TensorFlow_ Concepts, Tools, and Techniques to Build Intelligent Systems ( PDFDrive )
+2-Python for Aspiring Data Scientists
+3-Python-for-Data-Analysis-2nd-Edition
+4-The Hundred-Page Machine Learning Book ( PDFDrive )
